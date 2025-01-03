@@ -34,4 +34,3 @@ local tempoPrevisao = 2  -- Prever posição do inimigo em 2 segundos
 
 -- Chamada da função principal do jogo
 atualizarJogo(jogador, inimigos, centroX, centroY, raio, tempoPrevisao)
-# 123
